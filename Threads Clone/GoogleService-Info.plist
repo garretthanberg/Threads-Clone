@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>474207402793-fiav66rfn6ia4effj297v1nptgobgrqc.apps.googleusercontent.com</string>
+	<string></string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.474207402793-fiav66rfn6ia4effj297v1nptgobgrqc</string>
+	<string></string>
 	<key>API_KEY</key>
-	<string>AIzaSyCETLQNbY1zi1HQh6bB3WP4f75lpRqocYg</string>
+	<string></string>
 	<key>GCM_SENDER_ID</key>
 	<string>474207402793</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.garretthanberg.Threads-Clone</string>
+	<string></string>
 	<key>PROJECT_ID</key>
 	<string>threads-clone-swift</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:474207402793:ios:d4b9054a82f92caafcd538</string>
+	<string></string>
 </dict>
 </plist>
