@@ -1,5 +1,5 @@
 <h1 align="center">
-  Threads Clone with SwiftUI, Firebase, and Kingfisher.
+  Threads Clone with SwiftUI, Firebase, and Kingfisher
   <br>
 </h1>
 
