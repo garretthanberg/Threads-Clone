@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/garretthanberg/Threads-Clone/assets/115447682/3629ebaf-5b25-4c88-997c-265be232978d" alt="screenshot">
+  <img src="https://github.com/garretthanberg/Threads-Clone/assets/115447682/51283797-1ace-4e2e-a9b5-a705d7a0a425" alt="screenshot">
 </p>
 
 ## Introduction
@@ -64,7 +64,7 @@ $ Kingfisher
 ```
 
 <p align="center">
-  <img src="https://github.com/garretthanberg/Threads-Clone/assets/115447682/a1a3033e-da8d-4715-816b-7df0f39864a9" alt="screenshot">
+  <img src="https://github.com/garretthanberg/Threads-Clone/assets/115447682/3629ebaf-5b25-4c88-997c-265be232978d" alt="screenshot">
 </p>
 
 <a id="technologiesused"></a>
