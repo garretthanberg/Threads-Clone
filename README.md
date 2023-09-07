@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/garretthanberg/Threads-Clone/assets/115447682/51283797-1ace-4e2e-a9b5-a705d7a0a425" alt="screenshot">
+  <img src="https://github.com/garretthanberg/Threads-Clone/assets/115447682/3ba4d8da-ac25-4ea0-9050-8785e8ef6680" alt="screenshot">
 </p>
 
 ## Introduction
@@ -29,6 +29,10 @@ This Threads Clone project is not affiliated with or endorsed by Threads or any 
 * Thread Creation: Create threads to start discussions on various topics.
 * User Profiles: View user profiles and see their activity history.
 * Real-time Updates: Enjoy real-time updates when new threads or posts are created.
+
+<p align="center">
+  <img src="https://github.com/garretthanberg/Threads-Clone/assets/115447682/6a086caa-d409-4d23-bcf6-3bc7815699f6" alt="screenshot">
+</p>
 
 <a id="prerequisites"></a>
 ## Prerequisites
