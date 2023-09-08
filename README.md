@@ -19,7 +19,7 @@
 
 ## Introduction
 
-The aim of this project was to emulate Threads, the new trendy app from Meta. I skillfully combined SwiftUI for the user interface, Firebase for backend functionalities, and Kingfisher for efficient image loading and caching.
+The aim of this project was to emulate Threads, the new trendy app from Meta. I skillfully combined SwiftUI for the user interface, Firebase for backend functionalities, and Kingfisher for streamlined image loading and caching.
 
 This Threads Clone project is not affiliated with or endorsed by Threads or any associated entities. It is created for educational purposes and as a demonstration of SwiftUI and Firebase integration.
 
