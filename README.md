@@ -54,6 +54,8 @@ $ git clone https://github.com/garretthanberg/Threads-Clone.git
 # Go into the repository:
 $ cd Threads-Clone
 
+# Open the Threads Clone.xcodeproj file with Xcode.
+
 
 # Install dependencies in Xcode:
 $ firebase-ios-sdk
@@ -79,7 +81,6 @@ $ Kingfisher
 * Firebase Cloud Firestore: Store and retrieve data in real-time.
 * Firebase Authentication: Securely manage user registration and login.
 * Firebase Cloud Storage: Store and serve media files such as images.
-* SwiftUI Combine: Combine SwiftUI with Combine for reactive programming.
 * Kingfisher: Efficiently load and cache images in the app.
 
 ## Contributing
@@ -98,7 +99,7 @@ This project is licensed under the MIT License.
 
 ---
 
-I hope you enjoy using my Uber Eats clone! If you have any questions or need assistance, feel free to contact me.
+I hope you enjoy using my Threads Clone! If you have any questions or need assistance, feel free to contact me.
 
 > Portfolio [garretthanberg.com](https://www.garretthanberg.com) &nbsp;&middot;&nbsp;
 > GitHub [@garretthanberg](https://github.com/garretthanberg) &nbsp;&middot;&nbsp;
