@@ -44,7 +44,7 @@ Before you proceed, make sure you have the following tools and technologies inst
 
 ## Installation
 
-To run the Uber Eats clone on your local machine, follow these steps:
+To run the Threads Clone on your local machine, follow these steps:
 
 ```bash
 # Clone this repository:
