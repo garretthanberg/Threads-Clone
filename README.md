@@ -19,7 +19,7 @@
 
 ## Introduction
 
-This project stands as a robust mobile application, empowering users to effortlessly craft and oversee threads. It showcases the seamless fusion of SwiftUI to craft the user interface, Firebase for back-end services, and Kingfisher to ensure swift and efficient image loading and caching.
+The aim of this project was to emulate Threads, the new trendy app from Meta. I skillfully combined SwiftUI for the user interface, Firebase for backend functionalities, and Kingfisher for efficient image loading and caching.
 
 This Threads Clone project is not affiliated with or endorsed by Threads or any associated entities. It is created for educational purposes and as a demonstration of SwiftUI and Firebase integration.
 
