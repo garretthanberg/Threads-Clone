@@ -54,6 +54,7 @@ $ git clone https://github.com/garretthanberg/Threads-Clone.git
 # Go into the repository:
 $ cd Threads-Clone
 
+
 # Open the Threads Clone.xcodeproj file with Xcode.
 
 
